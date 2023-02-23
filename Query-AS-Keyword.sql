@@ -1,0 +1,1 @@
+select EmpID as 'Employee ID',concat(FirstName,' ',LastName) as Name from employee;
